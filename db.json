@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": "DELL portxxx",
+      "image": "https://imagor.owtg.one/unsafe/fit-in/200x200/filters:quality(100)/https://d28jzcg6y4v9j1.cloudfront.net/media/core/products/2024/6/23/dell-xps-14-9440-undefined-kq9.jpg",
+      "price": "899.000",
+      "category": "DELL",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "Justinnlee696@gmail.com",
+      "password": "$2a$10$8OsWqLZztUcTTSFxXnU8jessSzM.U73mdOUsED9IkoSOR3a0BRCPy",
+      "id": 1
+    },
+    {
+      "email": "Justinnlee1696@gmail.com",
+      "password": "$2a$10$B/qRiZ6/cR1Wb.Ub8R4/8uVk/dv8aEfezHrAG/LrLAqXNTMxmvNQC",
+      "id": 2
+    }
+  ]
+}
